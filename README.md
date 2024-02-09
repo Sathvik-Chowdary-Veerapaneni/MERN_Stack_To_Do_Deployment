@@ -66,3 +66,10 @@ A To-Do App using MERN stack with Node.js, Express, React, MongoDB, Heroku, GitH
 * Heroku Deployment Guide: [https://devcenter.heroku.com/categories/reference](https://devcenter.heroku.com/categories/reference): [https://devcenter.heroku.com/categories/reference](https://devcenter.heroku.com/categories/reference)
 * GitHub Actions documentation: [https://docs.github.com/actions](https://docs.github.com/actions): [https://docs.github.com/actions](https://docs.github.com/actions)
 * Docker Documentation: [https://docs.docker.com/](https://docs.docker.com/): [https://docs.docker.com/](https://docs.docker.com/)
+* MongoDB Atlas Documentation: [https://docs.atlas.mongodb.com/](https://docs.atlas.mongodb.com/): [https://docs.atlas.mongodb.com/](https://docs.atlas.mongodb.com/)
+
+
+## Prime Resourcess
+
+1. https://medium.com/devops-techable/how-to-install-nvm-node-version-manager-on-macos-with-homebrew-1bc10626181
+

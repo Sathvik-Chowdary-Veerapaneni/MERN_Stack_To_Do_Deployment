@@ -59,3 +59,10 @@ A To-Do App using MERN stack with Node.js, Express, React, MongoDB, Heroku, GitH
 2. **Continuous integration:** Ensure builds and tests pass before deployments.
 3. **Monitoring and logging:** Monitor app performance and logs for potential issues.
 4. **Updates and new features:** Regularly update dependencies and add new features as needed.
+
+**Additional Resources:**
+
+* MERN Stack Tutorial: [https://www.freecodecamp.org/news/learn-the-mern-stack-tutorial/](https://www.freecodecamp.org/news/learn-the-mern-stack-tutorial/): [https://www.freecodecamp.org/news/learn-the-mern-stack-tutorial/](https://www.freecodecamp.org/news/learn-the-mern-stack-tutorial/)
+* Heroku Deployment Guide: [https://devcenter.heroku.com/categories/reference](https://devcenter.heroku.com/categories/reference): [https://devcenter.heroku.com/categories/reference](https://devcenter.heroku.com/categories/reference)
+* GitHub Actions documentation: [https://docs.github.com/actions](https://docs.github.com/actions): [https://docs.github.com/actions](https://docs.github.com/actions)
+* Docker Documentation: [https://docs.docker.com/](https://docs.docker.com/): [https://docs.docker.com/](https://docs.docker.com/)

@@ -5,8 +5,8 @@ A To-Do App using MERN stack with Node.js, Express, React, MongoDB, Heroku, GitH
 
 **Step 1: Set Up Development Environment:**
 
-1. **Install Node.js and npm:** [https://nodejs.org](https://nodejs.org): [https://nodejs.org](https://nodejs.org)
-2. **Install a code editor:** Visual Studio Code, Sublime Text, Atom (optional)
+1. **Install Node.js and npm:** [https://nodejs.org](https://nodejs.org)
+2. **Personal Choice of IDE:** Visual Studio Code.
 3. **Create a project directory:** `mkdir mern-todo && cd mern-todo`
 
 **Step 2: Build the Frontend (React):**

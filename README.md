@@ -1,7 +1,43 @@
 # MERN Stack To-Do App
-## Summary
-A To-Do App using MERN stack with Node.js, Express, React, MongoDB, Heroku, GitHub Actions, and Docker.
+## Agenda
+Building a simple To-Do App with stack tools like Node.js, Express, React, MongoDB, Heroku, GitHub Actions, and Docker.
 
+## Purposeful Tools 
+  - Node.js & Express:
+    - Backend server development
+    - Routing and handling HTTP requests
+    - Middleware integration for request processing
+    - Interaction with MongoDB using MongoDB Node.js driver
+  
+  - React:
+    - Building user interfaces with reusable components
+    - Managing application state using hooks and context API
+    - Handling user interactions and events
+    - Making asynchronous requests to the backend API
+  
+  - MongoDB:
+    - NoSQL database for storing To-Do items
+    - Schema-less design allowing flexibility in data structure
+    - CRUD operations (Create, Read, Update, Delete) for managing To-Do items
+    - Integration with Node.js using MongoDB Node.js driver or Mongoose ODM
+
+  - Heroku:
+    - Deployment of Node.js applications to the cloud
+    - Easy scaling of application resources
+    - Configuration and management of environment variables
+    - Continuous deployment integration with GitHub
+  
+  - GitHub Actions:
+    - Automated workflows for Continuous Integration (CI) and Continuous Deployment (CD)
+    - Running tests, linting, and other checks on every commit or pull request
+    - Deploying the application to Heroku or other platforms automatically
+  
+  - Docker:
+    - Containerization of the application for consistent development and deployment environments
+    - Packaging the application along with its dependencies into a container image
+    - Isolating the application from the underlying system dependencies
+    - Running the application in various environments consistently, including     
+      development, testing, and production
 
 **Step 1: Set Up Development Environment:**
 
